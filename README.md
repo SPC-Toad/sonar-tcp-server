@@ -86,4 +86,6 @@ These logs help you track the detected objects' distance and angle over time.
 ## Test Run
 
 Here’s an example run. Please note this is my first video recorded on my phone, and I'm on a budget crunch!
-[!video]
+https://github.com/user-attachments/assets/c34c284a-3a42-4dd9-9a7d-55c177a8eef7
+
+
